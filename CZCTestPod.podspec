@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CZCTestPod'
-  s.version          = '0.0.3'
+  s.version          = '0.0.3.Binary'
   s.summary          = '测试'
   s.homepage         = 'https://github.com/2360219637/CZCTestPod'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
